@@ -1,0 +1,8 @@
+## Interface: 100105 
+## Version: 1.0.8 
+## Title: *Scymplex* media pack 
+## Notes: Custom media library by Scymplex 
+## X-Category: Interface Enhancements 
+## DefaultState: Enabled 
+
+SharedMedia_Scymplex.lua 
